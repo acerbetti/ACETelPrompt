@@ -18,6 +18,11 @@ The helper uses blocks to get the user choice also logging the phone duration.
                              }];
 ```
 
+## Cocoapods (Recommended)
+
+1. Add `pod 'ACETelPrompt'` to your Podfile.
+2. Run `pod install`
+
 ## License
 
 ACETelPrompt is available under the MIT license. See the LICENSE file for more info.
