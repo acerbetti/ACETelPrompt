@@ -31,7 +31,7 @@
 {
     [ACETelPrompt callPhoneNumber:self.phoneField.text
                              call:^(NSTimeInterval duration) {
-                                 NSLog(@"User made a call of %.1f secods", duration);
+                                 NSLog(@"User made a call of %.1f seconds", duration);
                                  
                              } cancel:^{
                                  NSLog(@"User cancelled the call");
