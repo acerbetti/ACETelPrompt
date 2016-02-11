@@ -18,7 +18,7 @@ The helper uses blocks to get the user choice also logging the phone duration.
                              }];
 ```
 
-## Cocoapods
+## CocoaPods
 
 1. Add `pod 'ACETelPrompt'` to your Podfile.
 2. Run `pod install`
